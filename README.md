@@ -138,9 +138,6 @@ We evaluate the proposed models on object detection and instance segmentation wi
     </table>
 </div>
 
-
-
-
 ## Main results on Semantic Segmentation
 We also evaluate our models on semantic segmentation with the ADE20K dataset. The table reports the results of different frameworks.
 
@@ -200,8 +197,6 @@ We also evaluate our models on semantic segmentation with the ADE20K dataset. Th
     </table>
 </div>
 
-
-
 ## VISUALIZATION
 
 ### Visualization of Attention Map
@@ -224,3 +219,11 @@ In Fig. 5, we also conduct qualitative visualization on validation datasets for 
 <div align="center">
     <img src="figures/fig5.png" width="80%">
 </div>
+
+## Authorship
+
+This project is contributed by [Qingbei Guo](https://github.com/QingbeiGuo).
+
+## Citation
+
+
