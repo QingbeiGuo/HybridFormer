@@ -28,7 +28,7 @@ We perform image classification experiments on the ImageNet-1K dataset. We compa
 | MViTv2-T        | 24          | 4.7        | 82.3     | CVPR22    |
 | NAT-T           | 28          | 4.3        | 83.2     | CVPR23    |
 | UniFormer-S     | 22          | 3.6        | 82.9     | TPAMI23   |
-|**HybridFormer-S**|**21.6**    | **4.3**    | **83.4** |           |
+|**HybridFormer-S (ours)**|**21.6**    | **4.3**    | **83.4** |           |
 |RegionViT-M      | 41.2        | 7.4        | 83.1     | ICLR22    |
 |CETNet-S         | 34          | 6.8        | 83.4     | ECCV22    |
 |MOAT-0           | 27.8        | 5.7        | 83.3     | ICLR23    |
@@ -36,7 +36,7 @@ We perform image classification experiments on the ImageNet-1K dataset. We compa
 |NAT-S            | 51          | 7.8        | 83.7     | CVPR23    |
 |PaCa-Small       | 22.0        | 5.5        | 83.1     | CVPR23    |
 |InternImage-T    | 30          | 5.0        | 83.5     | CVPR23    |
-|**HybridFormer-B**| **29.9**   | **6.2**    | **83.8** |           |
+|**HybridFormer-B (ours)**| **29.9**   | **6.2**    | **83.8** |           |
 |LIT-M            | 48          | 8.6        | 83.0     | AAAI22    |
 |CrossFormer-B    | 52.0        | 9.2        | 83.4     | ICLR22    |
 |DaViT-Small      | 49.7        | 8.8        | 84.2     | ECCV22    |
@@ -46,7 +46,7 @@ We perform image classification experiments on the ImageNet-1K dataset. We compa
 |PaCa-Base        | 46.9        | 9.5        | 84.0     | CVPR23    |
 |InternImage-S    | 50          | 8.0        | 84.2     | CVPR23    |
 |UniFormer-B      | 50          | 8.3        | 83.9     | TPAMI23   |
-|**HybridFormer-L**| **38.3**   |**8.0**     |**84.2**  |           |
+|**HybridFormer-L (ours)**| **38.3**   |**8.0**     |**84.2**  |           |
 |LIT-B            | 86          | 15.0       | 83.4     | AAAI22    |
 |RegionViT-B      | 72.7        | 13.0       | 83.2     | ICLR22    |
 |CrossFormer-L    | 92.0        | 16.1       | 84.0     | ICLR22    |
@@ -56,7 +56,7 @@ We perform image classification experiments on the ImageNet-1K dataset. We compa
 |MViTv2-B         | 52          | 10.2       | 84.4     | CVPR22    |
 |DAT-B            | 88          | 15.8       | 84.0     | CVPR22    |
 |NAT-B            | 90          | 13.7       | 84.3     | CVPR23    |
-|**HybridFormer-H**| **55.2**   | **11.6**   | **84.6** |           |
+|**HybridFormer-H (ours)**| **55.2**   | **11.6**   | **84.6** |           |
 
 ## Main results on Object Detection and Instance Segmentation
 
